@@ -1,4 +1,4 @@
-﻿#ifndef MYTINYSTL_VECTOR_H_
+﻿#ifndef MYTINYSTL_VECTOR_H_       //防止一个源文件（.cpp）多次包含一个头文件（.h）
 #define MYTINYSTL_VECTOR_H_
 
 // 这个头文件包含一个模板类 vector
